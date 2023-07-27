@@ -5,8 +5,9 @@ Model Klasifikasi dengan Multilayer Perceptron dan Random Forest
 
 Data: Indeks Standar Pencemar Udara (ISPU) DKI Jakarta 2021
 
-Dibagi dalam 4 notebook:
+Dibagi dalam 4 tahap:
 1. Data pre-processing
-2. Klasifikasi Multilayer Perceptron
-3. Random Forest
-4. Evaluasi untuk Prediksi Kategori ISPU pada data set baru
+
+3. Klasifikasi Multilayer Perceptron
+4. Random Forest
+5. Evaluasi untuk Prediksi Kategori ISPU pada data set polutan yang belum di ketahui lategori
