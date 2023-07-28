@@ -28,3 +28,5 @@ Dibagi dalam 4 bagian:
 - Analisis perbandingan model MLP dan RF
 - Pilih model klasifikasi
 - Prediksi data sintetis
+
+Pengerjaan dilakukan pada Google Colaboratory
